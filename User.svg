@@ -93,7 +93,7 @@
   </text>
 
   <text x="84" y="550" class="code">
-    <tspan class="property">editor</tspan><tspan class="punct">: </tspan><tspan class="string">"Zed"</tspan><tspan class="punct">,</tspan>
+    <tspan class="property">editor</tspan><tspan class="punct">: </tspan><tspan class="string">"vscode"</tspan><tspan class="punct">,</tspan>
   </text>
 
   <text x="84" y="576" class="code">
